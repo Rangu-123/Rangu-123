@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Rangu-123
-- 👀 I’m interested and passionate in coding and designing for fashionable website and web application for enhancing my learning skills. 
-- 🌱 I’m currently learning Full-Satck Web Developement(React.js, Node.js, SQl)and Designing Tools.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ranganathanv61@gamil.com 
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m Ranganathan Venkatasalam
+- 👀 I’m interested and passionate in coding and designing for fashionable website and web application for enhancing and aspiring to emerging my tech and soft skills.
+- 🌱 I’m Completed Certification Full-Satck Web Developement(React.js, Node.js, SQl)and Designing Tools.
+- 💞️ I’m looking to collaborate with Developing, Testing, 3D Designing.
+- 📫 To reach me ranganathanv61@gamil.com and 6383182979
+- 😄 Pronouns: He/Mr
 - ⚡ Fun fact: Once If Our Code Get Run'then Never Touch It Again😄.
 
 <!---
